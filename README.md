@@ -33,6 +33,7 @@
 > ES6知识点
 - [阮一峰ES6规范总结](https://github.com/weirui88888/blog/issues/11)
 
--[图解http知识点](https://github.com/weirui88888/blog/issues/13)
+> HTTP
+- [图解http知识点](https://github.com/weirui88888/blog/issues/13)
 
 
