@@ -38,6 +38,7 @@
 
 > 那些年遇到的坑
 - [for in循环](https://github.com/weirui88888/blog/issues/14)
+- [typeof操作符](https://github.com/weirui88888/blog/issues/15)
 
 
 
