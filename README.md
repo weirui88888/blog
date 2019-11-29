@@ -3,8 +3,8 @@
 ---
 ## 简介
 
-- 姓名：newArray
-- 年龄：26
+- 姓名：魏瑞
+- 年龄：27
 - 工作：目前就职于-直客通有限公司
 - 擅长技能：css、javascript、jquery、node、vue、es6、http等
 - 爱好：逛论坛（知乎、简书、github、掘金）、写博客、打游戏（lol）
